@@ -1,8 +1,8 @@
 {
-  "name": "ts-cdk-serverless-boilerplate",
+  "name": "cdk",
   "version": "0.1.0",
   "bin": {
-    "ts-cdk-serverless-boilerplate": "bin/ts-cdk-serverless-boilerplate.js"
+    "cdk": "bin/cdk.js"
   },
   "scripts": {
     "build": "tsc",
